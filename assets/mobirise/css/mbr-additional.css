@@ -1183,7 +1183,7 @@ body {
   left: 1.5rem;
   z-index: 1;
   border-radius: 100px;
-  background-color: #2666d0;
+  background-color: #ffe926;
 }
 .cid-t8sCls1U3Y .card .card-wrapper .card-img .img-text span {
   display: block;
@@ -1195,7 +1195,7 @@ body {
   margin: 0;
 }
 .cid-t8sCls1U3Y .img-text {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-rvDgSjEFuo {
   background-image: url("../../../assets/images/top-revenda-autorizada-honda-pront-loc-2000x1110.png");
@@ -1354,106 +1354,6 @@ body {
 .cid-t4j1rg1rp5 .img-text {
   color: #ffffff;
 }
-.cid-r61sXTPud6 {
-  background-color: #4289a7;
-}
-.cid-r61sXTPud6 .row {
-  align-items: center;
-}
-.cid-r61sXTPud6 .form-1 {
-  z-index: 1;
-  background-color: transparent;
-  padding: 3rem;
-  position: relative;
-  overflow: hidden;
-}
-.cid-r61sXTPud6 .form-1 .mbr-overlay {
-  z-index: -1;
-}
-.cid-r61sXTPud6 .input-wrap {
-  padding: 0;
-  margin-bottom: 1.3em;
-}
-.cid-r61sXTPud6 .input-wrap input {
-  color: #000000 !important;
-  border: none;
-  border-radius: 0 !important;
-  background-color: transparent;
-  width: 96%;
-  padding: .5rem 0rem;
-  border-bottom: 1px solid #000000;
-}
-.cid-r61sXTPud6 .input-wrap input:focus {
-  outline: none;
-}
-.cid-r61sXTPud6 .input-group-btn {
-  display: block;
-}
-.cid-r61sXTPud6 .btn-row {
-  padding-left: 0;
-}
-.cid-r61sXTPud6 input::-webkit-input-placeholder {
-  color: rgba(0, 0, 0, 0.3);
-}
-.cid-r61sXTPud6 input::-moz-placeholder {
-  color: rgba(0, 0, 0, 0.3);
-}
-.cid-r61sXTPud6 .form-subtitle {
-  line-height: 1.6;
-  color: #767676;
-}
-.cid-r61sXTPud6 .mbr-section-subtitle {
-  color: #ffe926;
-}
-.cid-r61sXTPud6 .form-text {
-  line-height: 1.6;
-  color: #767676;
-  margin: 0;
-}
-@media (min-width: 992px) {
-  .cid-r61sXTPud6 .text-element {
-    padding-right: 3rem;
-  }
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-r61sXTPud6 .form-1 {
-    margin-top: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-r61sXTPud6 .underline .line {
-    height: 2px;
-  }
-  .cid-r61sXTPud6 .text-element {
-    padding-bottom: 1rem;
-  }
-  .cid-r61sXTPud6 .form-1 {
-    padding: 2rem;
-    margin: 1rem;
-  }
-  .cid-r61sXTPud6 .mbr-section-subtitle,
-  .cid-r61sXTPud6 .mbr-section-title,
-  .cid-r61sXTPud6 .mbr-text,
-  .cid-r61sXTPud6 .mbr-section-btn,
-  .cid-r61sXTPud6 .form-title,
-  .cid-r61sXTPud6 .form-subtitle,
-  .cid-r61sXTPud6 input.field,
-  .cid-r61sXTPud6 .input-group-btn,
-  .cid-r61sXTPud6 .form-text {
-    text-align: center !important;
-  }
-}
-.cid-r61sXTPud6 .form-title {
-  color: #000000;
-}
-.cid-r61sXTPud6 .form-subtitle,
-.cid-r61sXTPud6 input.field {
-  color: #000000;
-}
-.cid-r61sXTPud6 .form-text,
-.cid-r61sXTPud6 .input-group-btn {
-  color: #000000;
-}
 .cid-t497MhzdeN {
   padding-top: 60px;
   padding-bottom: 30px;
@@ -1551,153 +1451,10 @@ body {
     opacity: 0;
   }
 }
-.cid-r650oKFpeK {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffe926;
-}
-.cid-r650oKFpeK .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-r650oKFpeK .mbr-slider .carousel-control {
-  background: #1b1b1b;
-}
-.cid-r650oKFpeK .mbr-slider .carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
-}
-.cid-r650oKFpeK .mbr-slider .carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
-}
-.cid-r650oKFpeK .mbr-slider .modal-body .close {
-  background: #1b1b1b;
-}
-.cid-r650oKFpeK .mbr-gallery-item > div::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background-color: #bcc2d8;
-  background: linear-gradient(180deg, #bcc2d8, #66458e);
-  opacity: 0;
-  -webkit-transition: 0.2s opacity ease-in-out;
-  transition: 0.2s opacity ease-in-out;
-}
-.cid-r650oKFpeK .icon-focus {
-  font-size: 2rem !important;
-  width: 50px;
-  height: 50px;
-  top: calc(50% - 25px);
-  left: calc(50% - 25px);
-}
-.cid-r650oKFpeK .icon-focus:before {
-  content: '+';
-  border-radius: 100px;
-  background: #444444;
-  width: 100%;
-  height: 100%;
-  padding-bottom: 6px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.cid-r650oKFpeK .icon-video {
-  font-size: 1.5rem !important;
-  width: 50px;
-  height: 50px;
-  top: calc(50% - 25px);
-  left: calc(50% - 25px);
-}
-.cid-r650oKFpeK .icon-video:before {
-  border-radius: 100px;
-  background: #444444;
-  width: 100%;
-  height: 100%;
-  padding-left: 6px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.cid-r650oKFpeK .mbr-gallery-title {
-  transition: all 0.5s ease;
-  position: absolute;
-  text-align: left;
-  display: none;
-  width: 100%;
-  bottom: 0;
-  right: 0;
-  padding: 1rem;
-  color: #ffffff;
-  font-weight: bold;
-  background: transparent;
-  -webkit-transition: all 0.5s ease;
-  -moz-transition: all 0.5s ease;
-  -o-transition: all 0.5s ease;
-  -ms-transition: all 0.5s ease;
-}
-.cid-r650oKFpeK ul {
-  font-size: 0;
-}
-.cid-r650oKFpeK .mbr-gallery-filter ul {
-  text-align: center;
-}
-.cid-r650oKFpeK .mbr-gallery-filter ul li .btn {
-  border: none !important;
-  background-color: transparent;
-  color: #59585d !important;
-  padding: 0.5rem 1rem 0.6rem;
-  border-radius: 0;
-  margin: 0!important;
-  transition: padding, border 0s, transform .2s;
-}
-.cid-r650oKFpeK .mbr-gallery-filter ul li .btn.active {
-  padding: 0.5rem 1rem 0.5rem;
-  border-radius: 0 !important;
-}
-.cid-r650oKFpeK .mbr-gallery-filter ul li {
-  padding: 0;
-  margin: 0 .2rem;
-}
-.cid-r650oKFpeK .mbr-gallery-filter ul li:first-child,
-.cid-r650oKFpeK .mbr-gallery-filter ul li:last-child {
-  margin: 0;
-}
-.cid-r650oKFpeK .mbr-gallery-item > div:hover .mbr-gallery-title {
-  display: block;
-}
-.cid-r650oKFpeK .mbr-gallery-item > div:hover:before {
-  opacity: 0.7 !important;
-}
-.cid-r650oKFpeK .btn {
-  background: none !important;
-  border-radius: 0 !important;
-  box-shadow: none !important;
-}
-.cid-r650oKFpeK .btn.active:after {
-  animation: none;
-}
-.cid-r650oKFpeK .btn:active {
-  box-shadow: none !important;
-}
-.cid-r650oKFpeK .btn:hover {
-  background: transparent !important;
-}
-.cid-r650oKFpeK .btn:hover:before {
-  background: transparent !important;
-}
-.cid-r650oKFpeK .btn:before {
-  background-color: transparent !important;
-}
-.cid-r650oKFpeK .btn:focus {
-  box-shadow: none !important;
-}
 .cid-r6eERW27Lk {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #66458e;
+  background-color: #2666d0;
 }
 .cid-r6eERW27Lk .mbr-section-subtitle {
   color: #cccccc;
@@ -1708,6 +1465,11 @@ body {
   .cid-r6eERW27Lk .mbr-section-title {
     text-align: center !important;
   }
+}
+.cid-r66AujBsL0 {
+  padding-top: 150px;
+  padding-bottom: 150px;
+  background-image: url("../../../assets/images/frente-prontloc-2000x1110.jpg");
 }
 .cid-r65tgnwEsf {
   padding-top: 30px;
@@ -1797,11 +1559,6 @@ body {
     padding-bottom: 2rem;
   }
 }
-.cid-r66AujBsL0 {
-  padding-top: 120px;
-  padding-bottom: 150px;
-  background-image: url("../../../assets/images/construloc-goiania-1382x8076.png");
-}
 .cid-r6eFxdmLKA {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -1816,6 +1573,11 @@ body {
   .cid-r6eFxdmLKA .mbr-section-title {
     text-align: center !important;
   }
+}
+.cid-r6esooviBV {
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-image: url("../../../assets/images/whatsapp-image-2018-06-05-at-18.13.10-1280x9607.jpg");
 }
 .cid-r6esqPJZDS {
   padding-top: 30px;
@@ -1904,11 +1666,6 @@ body {
   .cid-r6esqPJZDS form.mbr-form {
     padding-bottom: 2rem;
   }
-}
-.cid-r6esooviBV {
-  padding-top: 135px;
-  padding-bottom: 135px;
-  background-image: url("../../../assets/images/whatsapp-image-2018-06-05-at-18.13.10-1280x9607.jpg");
 }
 .cid-r6hOabbet4 {
   padding-top: 60px;
